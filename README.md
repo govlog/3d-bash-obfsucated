@@ -8,7 +8,8 @@ Before asking me "Why ?!" or telling me about the uselessness of this :
 - But I admit, a bit of waste of time ;-)
 
 
-- How it works ?
+How it works ?
+==============
 
 - It uses the famous Bresenham's line algorithm
 - It links every x/y/z points from an array of cords
