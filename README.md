@@ -1,4 +1,4 @@
-# 3D_bash_obfuscated
+# 3D_bash_obfuscated (627 bytes)
 
 
 Before asking me "Why ?!" or telling me about the uselessness of this :
@@ -16,6 +16,14 @@ How it works ?
 - It convert x/y/z pos to x/y plane ( x => x/z | y => y/z )
 - It does not make real rotation around an axis (no trig then).
 
+
+Obfuscation :
+=============
+
+At start, I wanted to make the code as small as possible, and found a neat way to compress the 3D coordinates ;-)
+It saved a lot of bytes, but i'm sure there's a better solution :-)
+
+The engine itself is not obfuscated, I will post a clean and indented version s00n.
 
 
 The code !
